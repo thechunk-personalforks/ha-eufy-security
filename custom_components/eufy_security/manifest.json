@@ -1,6 +1,6 @@
 {
-  "domain": "eufy_security",
-  "name": "Eufy Security",
+  "domain": "eufy_security_next",
+  "name": "Eufy Security Next",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/eufy_security",
   "requirements": [
@@ -10,7 +10,7 @@
     "ffmpeg"
   ],
   "codeowners": [
-      "@nonsleepr"
+      "thechunk"
   ],
-  "version": "0.3.0"
+  "version": "0.3.1"
 }
